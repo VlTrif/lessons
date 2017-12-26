@@ -1,3 +1,5 @@
+package lesson3;
+
 public class Mathematic {
     private double first;
     private double second;
